@@ -1,0 +1,20 @@
+{
+    "title": "Monokromatik-green",
+    "name": "monokromatik-green",
+    "description": "This dark monochrome green theme is based on the monochrome monitors used from 1960's-1980's",
+    "version": "1.0.0",
+    "author": "Derek Skinner (http://derekskinner.tv/)",
+    "homepage": "https://github.com/derek-skinner/monokromatik-green_theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/derek-skinner/monokromatik-green_theme.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.0.0"
+    },
+    "theme": {
+        "file": "theme.css",
+        "dark": true
+    }
+}
