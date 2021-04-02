@@ -1,6 +1,8 @@
 Brackets Theme: Monokromatik-green
 ===
 
+ADOBE HAS ANNOUNCED EOL FOR BRACKETS. THIS IS NOW DEPRECATED.
+
 This theme is based on the monochrome color scheme found on old monitors from the 1960's-1980's.
 
 Screenshots
